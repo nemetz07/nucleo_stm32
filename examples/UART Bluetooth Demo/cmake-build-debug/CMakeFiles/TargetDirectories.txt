@@ -1,0 +1,4 @@
+C:/Users/Norbi/Documents/STM32/bluetooth/cmake-build-debug/CMakeFiles/bluetooth.elf.dir
+C:/Users/Norbi/Documents/STM32/bluetooth/cmake-build-debug/CMakeFiles/UPLOAD.dir
+C:/Users/Norbi/Documents/STM32/bluetooth/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Norbi/Documents/STM32/bluetooth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
